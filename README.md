@@ -46,11 +46,11 @@
 
 ### 📂 Featured Projects
 
-* **RC (Recycle Clean)**
+* **[RC (Recycle Clean)](https://github.com/lj8888151214-commits)**
   * **설명**: AI 컴퓨터 비전 기반 객체 인식 및 분리배출 리워드/포인트 관리 웹 서비스
   * **스택**: React, Spring Boot, Spring Security, JWT, Python(CV), MySQL, AWS EC2
 
-* **easys**
+* **[easys](https://github.com/lj8888151214-commits)**
   * **설명**: 실시간 WebSocket 양방향 통신 및 캘린더 일정을 연계한 스터디 & 멘토링 플랫폼
   * **스택**: React, Spring Boot, WebSocket, PostgreSQL, JPA
 
