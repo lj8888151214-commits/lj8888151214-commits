@@ -46,7 +46,7 @@
 
 ### 📂 Featured Projects
 
-* **[치커리:A fridge & Recipes]([https://github.com/lj8888151214-commits/Chicory)**
+* **[치커리:A fridge & Recipes](https://github.com/lj8888151214-commits/Chicory)**
   * **설명**: AI 컴퓨터 비전 기반 음식 인식 및 냉장고 연동 재료파악 웹 서비스
   * **스택**: React 18, Vite, Three.js, React Three Fiber, React Three Drei, Framer Motion, Axios, Lucide React
   
@@ -55,7 +55,7 @@
   * **설명**: AI 컴퓨터 비전 기반 객체 인식 및 분리배출 리워드/포인트 관리 웹 서비스
   * **스택**: React, Spring Boot, Spring Security, JWT, Python(CV), MySQL, AWS EC2
 
-* **[easys](https://github.com/lj8888151214-commits/easys)**
+* **[Easys](https://github.com/lj8888151214-commits/easys)**
   * **설명**: 실시간 WebSocket 양방향 통신 및 캘린더 일정을 연계한 스터디 & 멘토링 플랫폼
   * **스택**: React, Spring Boot, WebSocket, PostgreSQL, JPA
 
