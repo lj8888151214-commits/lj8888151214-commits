@@ -46,6 +46,11 @@
 
 ### 📂 Featured Projects
 
+* **[Road and street:Showing Temperature](https://github.com/lj8888151214-commits/RS)**
+  * **설명**: Google map 기반 도로/인도 반사 온도 표시 서비스
+  * **스택**: On it.
+  * 
+
 * **[치커리:A fridge & Recipes](https://github.com/lj8888151214-commits/Chicory)**
   * **설명**: AI 컴퓨터 비전 기반 음식 인식 및 냉장고 연동 재료파악 웹 서비스
   * **스택**: React 18, Vite, Three.js, React Three Fiber, React Three Drei, Framer Motion, Axios, Lucide React
