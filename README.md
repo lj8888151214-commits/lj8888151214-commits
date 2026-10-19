@@ -1,7 +1,8 @@
 <div align="center">
 
-<img width="157" height="218" alt="image" src="https://github.com/user-attachments/assets/0812f5b4-b2b5-4ef9-849f-19bb3ce08c83" />
+
 # 👨‍💻 이재웅 | Full-Stack Developer
+<img width="157" height="218" alt="image" src="https://github.com/user-attachments/assets/0812f5b4-b2b5-4ef9-849f-19bb3ce08c83" />
 
 **"14년간 축적한 시스템 안정성 및 데이터 정합성 노하우를 웹 아키텍처에 녹여내는 풀스택 개발자 이재웅입니다."**
 
