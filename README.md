@@ -238,38 +238,70 @@
 
 <br/>
 
-<!-- 💻 5. Work Experience (접기/펼치기) -->
+<!-- 💻 5. Work Experience (전체 접기 + 회사별 개별 접기) -->
 <details open>
   <summary style="font-size: 1.25em; font-weight: bold; cursor: pointer; padding: 6px 0;">💼 Work Experience (총 14년)</summary>
   <br/>
   <table width="100%">
     <tr>
       <td style="background-color: #f6f8fa; padding: 18px; border-radius: 8px; border: 1px solid #d0d7de;">
-        <p style="margin: 0 0 12px 0;"><i>"설비·시스템·DB·웹 환경을 폭넓게 경험한 데이터 검증 및 트러블슈팅 중심 엔지니어"</i></p>
+        <p style="margin: 0 0 16px 0;"><i>"설비·시스템·DB·웹 환경을 폭넓게 경험한 데이터 검증 및 트러블슈팅 중심 엔지니어"</i></p>
 
-        <h4 style="margin: 12px 0 6px 0;">㈜따뜻한사람들 | 전산개발팀 · 과장 (2025.08 ~ 2026.02)</h4>
-        <ul style="margin: 0 0 14px 0; padding-left: 20px;">
-          <li>HTML, CSS, PHP, MySQL 기반 웹 개발 및 유지보수</li>
-          <li>Apache 서버 운영, 카페24 호스팅 관리 및 DNS 레코드 설정</li>
-        </ul>
+        <!-- 1. 따뜻한사람들 -->
+        <details open style="margin-bottom: 12px;">
+          <summary style="font-weight: 600; cursor: pointer; padding: 4px 0;">
+            🏢 <b>㈜따뜻한사람들</b> | 전산개발팀 · 과장 (2025.08 ~ 2026.02)
+          </summary>
+          <div style="background-color: #ffffff; padding: 12px; margin-top: 6px; border: 1px solid #e1e4e8; border-radius: 6px;">
+            <ul style="margin: 0; padding-left: 20px;">
+              <li>HTML, CSS, PHP, MySQL 기반 웹 개발 및 유지보수</li>
+              <li>Apache 서버 운영, 카페24 호스팅 관리 및 DNS 레코드 설정</li>
+              <li>아임웹 기반 홈페이지 연동 및 관리</li>
+            </ul>
+          </div>
+        </details>
 
-        <h4 style="margin: 12px 0 6px 0;">㈜제너셈 | 제어팀 · 차장 / 팀원 (2015.12 ~ 2025.04 / 9년 5개월)</h4>
-        <ul style="margin: 0 0 14px 0; padding-left: 20px;">
-          <li><b>산업용 제어 SW 개발:</b> C, Borland C++, C# 기반 고신뢰성 반도체 설비 제어 프로그램 개발 및 현장 트러블슈팅</li>
-          <li><b>데이터 정합성 보장:</b> MySQL, Oracle, Access 기반 LOT/Part 시계열 데이터 모델링 및 MES/SAP 연동 인터페이스 구축</li>
-          <li><b>이종 통신 연계:</b> TCP/IP Socket, RS-232/422/485 Serial 통신 기반 PLC, 레이저, 비전 검사 PC 간 실시간 파라미터 동기화</li>
-          <li><b>글로벌 기술 지원:</b> 필리핀, 말레이시아, 중국 등 해외 고객사 현장 대응 및 원격 기술 지원 (영어 커뮤니케이션)</li>
-        </ul>
+        <!-- 2. 제너셈 -->
+        <details open style="margin-bottom: 12px;">
+          <summary style="font-weight: 600; cursor: pointer; padding: 4px 0;">
+            🏢 <b>㈜제너셈</b> | 제어팀 · 차장 / 팀원 (2015.12 ~ 2025.04 / 9년 5개월)
+          </summary>
+          <div style="background-color: #ffffff; padding: 12px; margin-top: 6px; border: 1px solid #e1e4e8; border-radius: 6px;">
+            <ul style="margin: 0; padding-left: 20px;">
+              <li><b>산업용 제어 SW 개발:</b> C, Borland C++, C# 기반 고신뢰성 반도체 설비 제어 프로그램 개발 및 현장 트러블슈팅</li>
+              <li><b>데이터 정합성 보장:</b> MySQL, Oracle, Access 기반 LOT/Part 시계열 데이터 모델링 및 MES/SAP 연동 인터페이스 구축</li>
+              <li><b>이종 통신 연계:</b> TCP/IP Socket, RS-232/422/485 Serial 통신 기반 PLC, 레이저, 비전 검사 PC 간 실시간 파라미터 동기화</li>
+              <li><b>글로벌 기술 지원:</b> 필리핀, 말레이시아, 중국 등 해외 고객사 현장 대응 및 원격 기술 지원 (영어 커뮤니케이션)</li>
+            </ul>
+          </div>
+        </details>
 
-        <h4 style="margin: 12px 0 6px 0;">㈜참엔지니어링 | SW 개발팀 · 주임 (2013.08 ~ 2015.08 / 2년 1개월)</h4>
-        <ul style="margin: 0 0 14px 0; padding-left: 20px;">
-          <li>설비 제어 DB(MySQL) 운영, 레이저 컷팅 설비 셋업 및 I/O 파라미터 초기화 제어</li>
-        </ul>
+        <!-- 3. 참엔지니어링 -->
+        <details open style="margin-bottom: 12px;">
+          <summary style="font-weight: 600; cursor: pointer; padding: 4px 0;">
+            🏢 <b>㈜참엔지니어링</b> | SW 개발팀 · 주임 (2013.08 ~ 2015.08 / 2년 1개월)
+          </summary>
+          <div style="background-color: #ffffff; padding: 12px; margin-top: 6px; border: 1px solid #e1e4e8; border-radius: 6px;">
+            <ul style="margin: 0; padding-left: 20px;">
+              <li>설비 제어 DB(MySQL) 운영 및 데이터 관리</li>
+              <li>레이저 컷팅 설비 셋업, I/O 파라미터 초기화 제어 및 장애 복구 대응</li>
+            </ul>
+          </div>
+        </details>
 
-        <h4 style="margin: 12px 0 6px 0;">㈜JNDK | SI사업부 · 주임 (2010.12 ~ 2013.05 / 2년 6개월)</h4>
-        <ul style="margin: 0; padding-left: 20px;">
-          <li>C# (.NET 4.0) 기반 지멘스 PLC 통신 인터페이스 및 우편집중국 물류 제어 HMI 개발</li>
-        </ul>
+        <!-- 4. JNDK -->
+        <details open>
+          <summary style="font-weight: 600; cursor: pointer; padding: 4px 0;">
+            🏢 <b>㈜JNDK</b> | SI사업부 · 주임 (2010.12 ~ 2013.05 / 2년 6개월)
+          </summary>
+          <div style="background-color: #ffffff; padding: 12px; margin-top: 6px; border: 1px solid #e1e4e8; border-radius: 6px;">
+            <ul style="margin: 0; padding-left: 20px;">
+              <li>C# (.NET 4.0) 기반 지멘스 PLC 통신 인터페이스 및 우편집중국 물류 제어 HMI 개발</li>
+              <li>Crystal Report 기반 통계/리포트 시스템 개발 및 MMI 그래픽 화면 제작</li>
+            </ul>
+          </div>
+        </details>
+
       </td>
     </tr>
   </table>
