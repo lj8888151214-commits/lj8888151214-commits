@@ -64,8 +64,8 @@
   * **설명**: 실시간 WebSocket 양방향 통신 및 캘린더 일정을 연계한 스터디 & 멘토링 플랫폼
   * **스택**: React, Spring Boot, WebSocket, PostgreSQL, JPA
 
- * **[중국어암기 웹](https://github.com/lj8888151214-commits/hsk5)**
-   * **설명**: HSK 5급 관련 단어 암기 웹
+ * **[중국어암기 웹](https://github.com/lj8888151214-commits/hsk5)**  
+   *   * **설명**: HSK 5급 관련 단어 암기 웹
    * **스택**: Python, Dart
 
 
