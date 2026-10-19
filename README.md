@@ -65,8 +65,8 @@
   * **스택**: React, Spring Boot, WebSocket, PostgreSQL, JPA
 
  * **[중국어암기 웹](https://github.com/lj8888151214-commits/hsk5)**
-  * **설명**: HSK 5급 관련 단어 암기 웹
-  * **스택**: Python, Dart
+   * **설명**: HSK 5급 관련 단어 암기 웹
+   * **스택**: Python, Dart
 
 
 
