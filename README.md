@@ -17,7 +17,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 ---
 
-<details open>
+<details>
 <summary><h3>💡 About Me (핵심 역량 소개)</h3></summary>
 
 - **시스템 엔지니어링 기반의 견고한 아키텍처 설계**  
@@ -31,7 +31,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 ---
 
-<details open>
+<details>
 <summary><h3>🛠 Tech Stacks</h3></summary>
 
 | 분류 | 기술 및 도구 |
@@ -46,12 +46,12 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 ---
 
-<details open>
+<details>
 <summary><h3>📂 Featured Projects</h3></summary>
 
 <br>
 
-<details open>
+<details>
 <summary><b>1. Road and street: Showing Temperature (RS)</b> - 노면 미기후 시뮬레이터</summary>
 
 > **개인 프로젝트 · 풀스택 개발** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/RS)  
@@ -65,7 +65,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 <br>
 
-<details open>
+<details>
 <summary><b>2. 치커리 (Chicory)</b> - 3D 시각화 & AI 컴퓨터 비전 스마트 냉장고</summary>
 
 > **개인 프로젝트 · 풀스택 개발 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)  
@@ -80,7 +80,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 <br>
 
-<details open>
+<details>
 <summary><b>3. RC (Recycle Clean - 아빠의 습관)</b> - AI 분리배출 리워드 웹</summary>
 
 > **팀 프로젝트 · 풀스택 및 AI/인프라 연동 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/myfathershabit)  
@@ -95,7 +95,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 <br>
 
-<details open>
+<details>
 <summary><b>4. easys</b> - 실시간 스트리밍 & 멘토링 매칭 플랫폼</summary>
 
 > **팀 프로젝트 · 풀스택 개발 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/easys)  
@@ -110,7 +110,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 <br>
 
-<details open>
+<details>
 <summary><b>5. HSK 5급 단어 플래시카드 & 퀴즈 플랫폼 (HSK 5 Web)</b></summary>
 
 > **개인 프로젝트 · 풀스택 개발 (1주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/hsk5)  
@@ -126,7 +126,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 ---
 
-<details open>
+<details>
 <summary><h3>🎓 Education & Training</h3></summary>
 
 > #### 🎓 정부지원 풀스택 웹 개발자 양성 과정 (2026.05 ~ 2026.11)
@@ -140,14 +140,14 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 ---
 
-<details open>
+<details>
 <summary><h3>💼 Work Experience (총 14년)</h3></summary>
 
 > *"설비·시스템·DB·웹 환경을 폭넓게 경험한 데이터 검증 및 트러블슈팅 중심 엔지니어"*
 
 <br>
 
-<details open>
+<details>
 <summary>🏢 <b>㈜따뜻한사람들</b> | 전산개발팀 · 과장 (2025.08 ~ 2026.02)</summary>
 
 - HTML, CSS, PHP, MySQL 기반 웹 개발 및 유지보수
@@ -158,7 +158,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 <br>
 
-<details open>
+<details>
 <summary>🏢 <b>㈜제너셈</b> | 제어팀 · 차장 / 팀원 (2015.12 ~ 2025.04 / 9년 5개월)</summary>
 
 - **산업용 제어 SW 개발:** C, Borland C++, C# 기반 고신뢰성 반도체 설비 제어 프로그램 개발 및 현장 트러블슈팅
@@ -170,7 +170,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 <br>
 
-<details open>
+<details>
 <summary>🏢 <b>㈜참엔지니어링</b> | SW 개발팀 · 주임 (2013.08 ~ 2015.08 / 2년 1개월)</summary>
 
 - 설비 제어 DB(MySQL) 운영 및 데이터 관리
@@ -180,7 +180,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 <br>
 
-<details open>
+<details>
 <summary>🏢 <b>㈜JNDK</b> | SI사업부 · 주임 (2010.12 ~ 2013.05 / 2년 6개월)</summary>
 
 - C# (.NET 4.0) 기반 지멘스 PLC 통신 인터페이스 및 우편집중국 물류 제어 HMI 개발
@@ -192,7 +192,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 ---
 
-<details open>
+<details>
 <summary><h3>📜 Credentials & Languages</h3></summary>
 
 > • **HSK 4급** (219점)  
