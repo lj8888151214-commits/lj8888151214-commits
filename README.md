@@ -91,6 +91,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <summary><b>3. RC (Recycle Clean - 아빠의 습관)</b> - AI 분리배출 리워드 웹</summary>
 
 > **개인 프로젝트 · 풀스택 및 AI/인프라 연동 (4주 Sprint)**
+> <br>
 > | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/myfathershabit)
 > <br>
 > | [🔗 URL](https://plasticmoney.duckdns.org/)
