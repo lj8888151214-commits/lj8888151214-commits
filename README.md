@@ -72,7 +72,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 > **개인 프로젝트 · 풀스택 개발 (5주 Sprint)**
 > <br>
-> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)
+> |[🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)
 > <br>
 > |[🔗 냉장고 URL]( https://chicoryworld.duckdns.org/fridge)
 > <br>
