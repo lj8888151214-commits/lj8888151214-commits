@@ -84,7 +84,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>3. RC (Recycle Clean - 아빠의 습관)</b> - AI 분리배출 리워드 웹</summary>
 
-> **팀 프로젝트 · 풀스택 및 AI/인프라 연동 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/myfathershabit)  
+> **개인 프로젝트 · 풀스택 및 AI/인프라 연동 (4주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/myfathershabit)  | [🔗 URL]([https://github.com/lj8888151214-commits/myfathershabit](https://plasticmoney.duckdns.org/))  
 > **Core Stacks:** `Java 17` `Spring Boot` `Python` `OpenCV` `YOLO` `MySQL` `React` `Kakao Map API` `AWS EC2`
 
 - **AI 비전 추론 파이프라인 연계:** Spring Boot ↔ Python(CV) 간 `MultipartFile` 이미지 전송 및 Confidence Threshold 검증으로 오분류 필터링 구축
@@ -99,7 +99,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>4. easys</b> - 실시간 스트리밍 & 멘토링 매칭 플랫폼</summary>
 
-> **팀 프로젝트 · 풀스택 개발 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/easys)  
+> **팀 프로젝트 · 풀스택 개발 (4주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/easys)  
 > **Core Stacks:** `Java 17` `Spring Boot` `WebSocket` `PostgreSQL` `Spring Data JPA` `React`
 
 - **실시간 양방향 통신:** WebSocket 프로토콜 기반 실시간 그룹 채팅, 1:1 다이렉트 메시징 및 클라이언트 연결 상태 실시간 동기화
