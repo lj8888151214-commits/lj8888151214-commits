@@ -69,7 +69,9 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>2. 치커리 (Chicory)</b> - 3D 시각화 & AI 컴퓨터 비전 스마트 냉장고</summary>
 
-> **개인 프로젝트 · 풀스택 개발 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)|[🔗 냉장고 URL]( https://chicoryworld.duckdns.org/fridge)|[🔗 레시피 URL]( https://chicoryworld.duckdns.org/)
+> **개인 프로젝트 · 풀스택 개발 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)
+> |[🔗 냉장고 URL]( https://chicoryworld.duckdns.org/fridge)
+> |[🔗 레시피 URL]( https://chicoryworld.duckdns.org/)
 > https://chicoryworld.duckdns.org/fridge
 > **Core Stacks:** `Java 17` `Spring Boot` `Spring Security` `JWT` `Querydsl` `MySQL` `React` `Three.js` `AWS EC2`
 
@@ -85,7 +87,9 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>3. RC (Recycle Clean - 아빠의 습관)</b> - AI 분리배출 리워드 웹</summary>
 
-> **개인 프로젝트 · 풀스택 및 AI/인프라 연동 (4주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/myfathershabit)  | [🔗 URL](https://plasticmoney.duckdns.org/)
+> **개인 프로젝트 · 풀스택 및 AI/인프라 연동 (4주 Sprint)**
+> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/myfathershabit)
+> | [🔗 URL](https://plasticmoney.duckdns.org/)
 > **Core Stacks:** `Java 17` `Spring Boot` `Python` `OpenCV` `YOLO` `MySQL` `React` `Kakao Map API` `AWS EC2`
 - **AI 비전 추론 파이프라인 연계:** Spring Boot ↔ Python(CV) 간 `MultipartFile` 이미지 전송 및 Confidence Threshold 검증으로 오분류 필터링 구축
 - **포인트 트랜잭션 동시성 제어:** 배출 인증 완료 시 포인트 적립 및 잔액 갱신 트랜잭션 격리 수준 관리로 중복 지급 및 정합성 이슈 차단
@@ -114,7 +118,8 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>5. HSK 5급 단어 플래시카드 & 퀴즈 플랫폼 (HSK 5 Web)</b></summary>
 
-> **개인 프로젝트 · 풀스택 개발 (1주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/hsk5)   | [🔗 URL](https://hsk5-hsk5quizapp.vercel.app/)
+> **개인 프로젝트 · 풀스택 개발 (1주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/hsk5)
+> | [🔗 URL](https://hsk5-hsk5quizapp.vercel.app/)
 > **Core Stacks:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Flutter Web` `Render`
 
 - **2,470개 어휘 DB 마이그레이션 파이프라인:** 로컬 SQLite에서 운영 Render PostgreSQL로 데이터 무결성을 유지하며 2,470개 전수 단어 이전 (Merge 기반 멱등성 보장 스크립트 구축)
