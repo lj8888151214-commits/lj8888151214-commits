@@ -55,9 +55,10 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>1. Road and street: Showing Temperature (RS)</b> - 노면 미기후 시뮬레이터</summary>
 
-> **개인 프로젝트 · 풀스택 개발** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/RS)  
+> **개인 프로젝트 · 풀스택 개발**
+> <br>
+> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/RS)  
 > **Core Stacks:** `React` `Three.js` `React Three Fiber` `Google Maps API` `Street View API` `TypeScript`
-
 - **3D 디지털 트윈 파노라마 정합:** Google Street View의 POV(Heading, Pitch, Zoom)와 Three.js PerspectiveCamera의 투영 행렬을 밀리초 단위로 동기화하여 거리 뷰 위 3D 모델 및 미기후 객체 자연 렌더링
 - **태양 방위각 기반 노면 반사열 알고리즘:** 태양 고도/방위각 및 직달일사량 수치 데이터를 연동하여 건물·도로의 양지면과 음지면 표면 반사 온도를 동적으로 분리 산출 (소수점 2자리 정밀도)
 - **동적 타이포그래피 오버레이:** 주변 시설물 좌표 기반 벡터 연산을 통해 직달일사 수광면과 그늘면에 커스텀 SVG 라벨 마커 오버레이
@@ -109,7 +110,10 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>4. easys</b> - 실시간 스트리밍 & 멘토링 매칭 플랫폼</summary>
 
-> **팀 프로젝트 · 풀스택 개발 (4주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/easys)  
+> **팀 프로젝트 · 풀스택 개발 (4주 Sprint)**
+> <br>
+> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/easys)
+> <br>
 > **Core Stacks:** `Java 17` `Spring Boot` `WebSocket` `PostgreSQL` `Spring Data JPA` `React`
 - **실시간 양방향 통신:** WebSocket 프로토콜 기반 실시간 그룹 채팅, 1:1 다이렉트 메시징 및 클라이언트 연결 상태 실시간 동기화
 - **미디어 스트리밍 파이프라인:** 비대면 멘토링 화면·미디어 스트리밍 인터페이스 구축 및 세션 종료 시 백엔드 리소스 자동 회수 프로세스 설계
