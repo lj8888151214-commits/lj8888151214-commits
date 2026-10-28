@@ -113,7 +113,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>5. HSK 5급 단어 플래시카드 & 퀴즈 플랫폼 (HSK 5 Web)</b></summary>
 
-> **개인 프로젝트 · 풀스택 개발 (1주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/hsk5)   | [🔗 URL](ttps://hsk5-hsk5quizapp.vercel.app/)
+> **개인 프로젝트 · 풀스택 개발 (1주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/hsk5)   | [🔗 URL](https://hsk5-hsk5quizapp.vercel.app/)
 > **Core Stacks:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Flutter Web` `Render`
 
 - **2,470개 어휘 DB 마이그레이션 파이프라인:** 로컬 SQLite에서 운영 Render PostgreSQL로 데이터 무결성을 유지하며 2,470개 전수 단어 이전 (Merge 기반 멱등성 보장 스크립트 구축)
