@@ -69,7 +69,8 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>2. 치커리 (Chicory)</b> - 3D 시각화 & AI 컴퓨터 비전 스마트 냉장고</summary>
 
-> **개인 프로젝트 · 풀스택 개발 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)  
+> **개인 프로젝트 · 풀스택 개발 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)|[🔗 냉장고 URL]( https://chicoryworld.duckdns.org/fridge)|[🔗 레시피 URL]( https://chicoryworld.duckdns.org/)
+> https://chicoryworld.duckdns.org/fridge
 > **Core Stacks:** `Java 17` `Spring Boot` `Spring Security` `JWT` `Querydsl` `MySQL` `React` `Three.js` `AWS EC2`
 
 - **재료 기반 매칭 알고리즘:** 사용자 냉장고 속 보유 재료와 레시피 필수 재료를 교차 대조하여 일치율(Match Rate) 순 추천 로직 구현
