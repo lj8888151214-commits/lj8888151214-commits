@@ -69,14 +69,15 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>2. 치커리 (Chicory)</b> - 3D 시각화 & AI 컴퓨터 비전 스마트 냉장고</summary>
 
-> **개인 프로젝트 · 풀스택 개발 (5주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)
+> **개인 프로젝트 · 풀스택 개발 (5주 Sprint)**
+> <br>
+> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)
 > <br>
 > |[🔗 냉장고 URL]( https://chicoryworld.duckdns.org/fridge)
 > <br>
 > |[🔗 레시피 URL]( https://chicoryworld.duckdns.org/)
 <br>
 > **Core Stacks:** `Java 17` `Spring Boot` `Spring Security` `JWT` `Querydsl` `MySQL` `React` `Three.js` `AWS EC2`
-
 - **재료 기반 매칭 알고리즘:** 사용자 냉장고 속 보유 재료와 레시피 필수 재료를 교차 대조하여 일치율(Match Rate) 순 추천 로직 구현
 - **Querydsl 다중 조건 동적 쿼리:** 카테고리·난이도·복수 식재료 태그(AND/OR) 검색을 `BooleanBuilder`로 모듈화하여 불필요한 쿼리 호출 최소화
 - **No-Offset 페이징 최적화:** 대용량 레시피 목록 조회 시 OFFSET 탐색 병목을 해소하기 위해 직전 ID 기준 커서 방식(Slice) 페이징 적용
@@ -109,7 +110,6 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 > **팀 프로젝트 · 풀스택 개발 (4주 Sprint)** | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/easys)  
 > **Core Stacks:** `Java 17` `Spring Boot` `WebSocket` `PostgreSQL` `Spring Data JPA` `React`
-
 - **실시간 양방향 통신:** WebSocket 프로토콜 기반 실시간 그룹 채팅, 1:1 다이렉트 메시징 및 클라이언트 연결 상태 실시간 동기화
 - **미디어 스트리밍 파이프라인:** 비대면 멘토링 화면·미디어 스트리밍 인터페이스 구축 및 세션 종료 시 백엔드 리소스 자동 회수 프로세스 설계
 - **예약 스케줄 정합성 보장:** 멘토 가능 시간과 멘티 예약 간 중복 충돌을 방지하는 트랜잭션 락 메커니즘 및 예약 상태 머신 관리
@@ -129,7 +129,6 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 > | [🔗 URL](https://hsk5-hsk5quizapp.vercel.app/)
 > <br>
 > **Core Stacks:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Flutter Web` `Render`
-
 - **2,470개 어휘 DB 마이그레이션 파이프라인:** 로컬 SQLite에서 운영 Render PostgreSQL로 데이터 무결성을 유지하며 2,470개 전수 단어 이전 (Merge 기반 멱등성 보장 스크립트 구축)
 - **오답노트 영속성 아키텍처:** 브라우저 휘발성 스토리지 탈피, RDBMS 모델링(`Word` 1:N `WrongAnswerRecord`) 및 외래키 기반 조인 최적화로 복습 기록 영구 보존
 - **Render 콜드 스타트 지연 해결:** 무료 인스턴스의 15분 인액티브 슬립을 극복하기 위해 UptimeRobot 주기적 헬스체크 핑을 구축하여 초기 지연 시간 원천 차단
