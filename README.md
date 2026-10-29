@@ -15,6 +15,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 > 📞 **Contact & Channel**  
 > • **Email:** [lcom3000@naver.com](mailto:lcom3000@naver.com)  
 > • **GitHub:** [https://github.com/lj8888151214-commits](https://github.com/lj8888151214-commits)
+> • **Notion:** [https://silver-haircut-28e.notion.site/Welcome-to-my-code-space-0d8df13da89e831f9f0e8179500d223e)
 
 ---
 
