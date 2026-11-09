@@ -1,11 +1,10 @@
 <div align="center">
 
-
 # 👨‍💻 이재웅 | Full-Stack Developer
 
 **"14년간 축적한 시스템 안정성 및 데이터 정합성 노하우를 웹 아키텍처에 녹여내는 풀스택 개발자 이재웅입니다."**
 
-반도체 시스템 소프트웨어(C#/C++) 개발 경험을 통해 다져진 문제 해결력과 예외 상황에 대한 집요한 추적 역량을 바탕으로,  
+반도체 제어 소프트웨어(C#/C++) 개발 경험을 통해 다져진 문제 해결력과 예외 상황에 대한 집요한 추적 역량을 바탕으로,  
 Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트엔드를 설계합니다.
 
 </div>
@@ -14,9 +13,8 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 > 📞 **Contact & Channel**  
 > • **Email:** [lcom3000@naver.com](mailto:lcom3000@naver.com)  
-> • **GitHub:** [https://github.com/lj8888151214-commits](https://github.com/lj8888151214-commits)
-> <br>
-> • **Notion:** [https://silver-haircut-28e.notion.site/Welcome-to-my-code-space-0d8df13da89e831f9f0e8179500d223e)
+> • **GitHub:** [https://github.com/lj8888151214-commits](https://github.com/lj8888151214-commits)  
+> • **Notion:** [https://silver-haircut-28e.notion.site/Welcome-to-my-code-space-0d8df13da89e831f9f0e8179500d223e](https://silver-haircut-28e.notion.site/Welcome-to-my-code-space-0d8df13da89e831f9f0e8179500d223e)
 
 ---
 
@@ -24,11 +22,11 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <summary><h3>💡 About Me (핵심 역량 소개)</h3></summary>
 
 - **시스템 엔지니어링 기반의 견고한 아키텍처 설계**  
-  14년간 산업용 장비 및 제어 소프트웨어를 개발하며 체득한 데이터 무결성 보장, 동시성 이슈 제어, 락(Lock) 메커니즘을 웹 도메인(포인트 트랜잭션, 예약 동기화 등)에 그대로 접목하여 안정적인 백엔드 시스템을 구축합니다.
+  14년간 산업용 장비 및 제어 소프트웨어를 개발하며 체득한 데이터 무결성 보장, 동시성 제어, 락(Lock) 메커니즘을 웹 도메인(포인트 트랜잭션, 예약 동기화 등)에 접목하여 안정적인 백엔드 시스템을 구축합니다.
 - **끝까지 원인을 규명하는 집요한 트러블슈팅**  
-  단순히 라이브러리를 붙이는 것에 그치지 않고, Spring Security 필터 체인 순서, 외부 지도 SDK 라이프사이클 비동기 로딩, 이종 시스템 간 멀티파트 통신 버퍼 처리 등 문제를 만났을 때 로그와 동작 원리를 파고들어 확실하게 해결합니다.
-- **협업 중심의 워크플로우 전파**  
-  Git 브랜치 전략(feature 단위), PR 기반의 코드 리뷰, Swagger API 문서 자동화를 적극 도입하여 팀원 간의 소통 비용과 병합 충돌을 최소화하는 개발 문화를 지향합니다.
+  단순한 라이브러리 도입에 그치지 않고, Spring Security 필터 체인 순서, 외부 지도 SDK 라이프사이클 비동기 로딩, 이종 시스템 간 멀티파트 통신 버퍼 처리 등 문제를 마주했을 때 동작 원리와 로그를 끝까지 파고들어 해결합니다.
+- **협업 중심의 워크플로우 정착**  
+  기능(Feature) 단위 Git 브랜치 전략, PR 기반 코드 리뷰, Swagger API 문서 자동화를 적극 도입하여 팀원 간 소통 비용과 병합 충돌을 최소화하는 개발 환경을 지향합니다.
 
 </details>
 
@@ -41,7 +39,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 | :--- | :--- |
 | **Backend & Security** | ![Java](https://img.shields.io/badge/Java_17-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![R3F](https://img.shields.io/badge/R3F-000000?style=flat-square&logo=react&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Database & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Querydsl](https://img.shields.io/badge/Querydsl-007ACC?style=flat-square&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logoColor=white) |
+| **Database & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Querydsl](https://img.shields.io/badge/Querydsl-007ACC?style=flat-square&logo=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=white) |
 | **Systems & Desktop** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP/IP_Socket-333333?style=flat-square) ![Serial](https://img.shields.io/badge/Serial_(RS--232/422/485)-444444?style=flat-square) ![PLC](https://img.shields.io/badge/PLC_Interface-555555?style=flat-square) |
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 
@@ -57,13 +55,12 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>1. Road and street: Showing Temperature (RS)</b> - 노면 미기후 시뮬레이터</summary>
 
-> **개인 프로젝트 · 풀스택 개발**
-> <br>
+> **개인 프로젝트 · 풀스택 개발**  
 > | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/RS)  
 > **Core Stacks:** `React` `Three.js` `React Three Fiber` `Google Maps API` `Street View API` `TypeScript`
-- **3D 디지털 트윈 파노라마 정합:** Google Street View의 POV(Heading, Pitch, Zoom)와 Three.js PerspectiveCamera의 투영 행렬을 밀리초 단위로 동기화하여 거리 뷰 위 3D 모델 및 미기후 객체 자연 렌더링
-- **태양 방위각 기반 노면 반사열 알고리즘:** 태양 고도/방위각 및 직달일사량 수치 데이터를 연동하여 건물·도로의 양지면과 음지면 표면 반사 온도를 동적으로 분리 산출 (소수점 2자리 정밀도)
-- **동적 타이포그래피 오버레이:** 주변 시설물 좌표 기반 벡터 연산을 통해 직달일사 수광면과 그늘면에 커스텀 SVG 라벨 마커 오버레이
+- **3D 디지털 트윈 파노라마 정합:** Google Street View의 시점 데이터(Heading, Pitch, Zoom)와 Three.js `PerspectiveCamera`의 투영 행렬을 밀리초 단위로 동기화하여 거리 뷰 위에 3D 모델 및 미기후 객체 자연 렌더링
+- **태양 방위각 기반 노면 반사열 알고리즘:** 태양 고도/방위각 및 직달일사량 수치 데이터를 연동하여 건물·도로 양지면과 음지면의 표면 반사 온도를 동적으로 분리 산출 (소수점 2자리 정밀도)
+- **동적 타이포그래피 오버레이:** 주변 시설물 좌표 기반 벡터 연산을 통해 일사 수광면과 그늘면에 커스텀 SVG 라벨 마커 오버레이
 
 </details>
 
@@ -72,20 +69,16 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>2. 치커리 (Chicory)</b> - 3D 시각화 & AI 컴퓨터 비전 스마트 냉장고</summary>
 
-> **개인 프로젝트 · 풀스택 개발 (5주 Sprint)**
-> <br>
-> |[🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)
-> <br>
-> |[🔗 냉장고 URL]( https://chicoryworld.duckdns.org/fridge)
-> <br>
-> |[🔗 레시피 URL]( https://chicoryworld.duckdns.org/)
-<br>
+> **개인 프로젝트 · 풀스택 개발 (5주 Sprint)**  
+> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/Chicory)  
+> | [🔗 냉장고 URL](https://chicoryworld.duckdns.org/fridge)  
+> | [🔗 레시피 URL](https://chicoryworld.duckdns.org/)  
 > **Core Stacks:** `Java 17` `Spring Boot` `Spring Security` `JWT` `Querydsl` `MySQL` `React` `Three.js` `AWS EC2`
 - **재료 기반 매칭 알고리즘:** 사용자 냉장고 속 보유 재료와 레시피 필수 재료를 교차 대조하여 일치율(Match Rate) 순 추천 로직 구현
 - **Querydsl 다중 조건 동적 쿼리:** 카테고리·난이도·복수 식재료 태그(AND/OR) 검색을 `BooleanBuilder`로 모듈화하여 불필요한 쿼리 호출 최소화
-- **No-Offset 페이징 최적화:** 대용량 레시피 목록 조회 시 OFFSET 탐색 병목을 해소하기 위해 직전 ID 기준 커서 방식(Slice) 페이징 적용
+- **No-Offset 페이징 최적화:** 대용량 레시피 목록 조회 시 `OFFSET` 탐색 병목을 해소하기 위해 직전 ID 기준 커서 방식(`Slice`) 페이징 적용
 - **소비기한 D-Day 직관화:** 보관 유형(냉장/냉동/실온)별 임박도(위험/주의/안전) 자동 연산 및 3D 모델 연동 반응형 카드 UI 구축
-
+- **기술적 해결 과제:** 3D 냉장고 도어 개폐 애니메이션 구현 시 축(X, Y, Z) 회전 좌표 연산 및 다중 파츠 렌더링 순서 최적화
 
 </details>
 
@@ -94,19 +87,15 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>3. RC (Recycle Clean - 아빠의 습관)</b> - AI 분리배출 리워드 웹</summary>
 
-> **개인 프로젝트 · 풀스택 및 AI/인프라 연동 (4주 Sprint)**
-> <br>
-> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/myfathershabit)
-> <br>
-> | [🔗 URL](https://plasticmoney.duckdns.org/)
-> <br>
+> **개인 프로젝트 · 풀스택 및 AI/인프라 연동 (4주 Sprint)**  
+> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/myfathershabit)  
+> | [🔗 URL](https://plasticmoney.duckdns.org/)  
 > **Core Stacks:** `Java 17` `Spring Boot` `Python` `OpenCV` `YOLO` `MySQL` `React` `Kakao Map API` `AWS EC2`
-- **AI 비전 추론 파이프라인 연계:** Spring Boot ↔ Python(CV) 간 `MultipartFile` 이미지 전송 및 Confidence Threshold 검증으로 오분류 필터링 구축
-- **포인트 트랜잭션 동시성 제어:** 배출 인증 완료 시 포인트 적립 및 잔액 갱신 트랜잭션 격리 수준 관리로 중복 지급 및 정합성 이슈 차단
-- **GPS 거점 탐색 & React 라이프사이클 동기화:** 사용자 GPS 반경 내 수거 거점 조회 및 외부 Kakao Map SDK 비동기 로딩과 React `useEffect` 생명주기 불일치 트러블슈팅
-- **협업 리딩 & 문서화:** Feature 브랜치 전략 전파, 공통 설정 파일 Merge Conflict 해결 및 Swagger 기반 백엔드-프론트엔드 API 규격 동기화
-- **빌드시 어려웠던 점1:** Python을 서버화 시킨 후 가중치 파일을 서빙을 해야 하는데 개념을 미인지 했을 때와 손과 재활용품을 모두 인지시키는 조건문을 대입시키는 과정,
-- **빌드시 어려웠던 점2:** 그리고 API를 이용하여 포인트를 공유하고 엔티티에 등록하는 과정
+- **AI 비전 추론 파이프라인 연계:** Spring Boot ↔ Python(CV) 간 `MultipartFile` 바이너리 전송 및 Confidence Threshold 검증으로 오분류 필터링 구축
+- **포인트 트랜잭션 동시성 제어:** 배출 인증 완료 시 포인트 적립 및 잔액 갱신 트랜잭션 격리 수준 관리로 중복 지급 방지 및 데이터 정합성 보장
+- **GPS 거점 탐색 & React 라이프사이클 동기화:** 사용자 반경 내 수거 거점 조회 및 외부 Kakao Map SDK 비동기 로딩과 React `useEffect` 생명주기 불일치 이슈 해결
+- **협업 리딩 & 문서화:** Feature 브랜치 전략 전파, 공통 설정 충돌 해결 및 Swagger 기반 백엔드-프론트엔드 API 규격 동기화
+- **기술적 해결 과제:** Python 추론 모듈의 경량 API 서버화 및 YOLO 모델 가중치 파일 서빙 파이프라인 구축, '사람 손'과 '재활용 대상 객체' 동시 인식 시 조건부 검증 로직 수립
 
 </details>
 
@@ -115,18 +104,15 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>4. easys</b> - 실시간 스트리밍 & 멘토링 매칭 플랫폼</summary>
 
-> **팀 프로젝트 · 풀스택 개발 (4주 Sprint)**
-> <br>
-> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/easys)
-> <br>
+> **팀 프로젝트 · 풀스택 개발 (4주 Sprint)**  
+> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/easys)  
 > **Core Stacks:** `Java 17` `Spring Boot` `WebSocket` `PostgreSQL` `Spring Data JPA` `React`
-> 
-- **실시간 양방향 통신:** WebSocket 프로토콜 기반 실시간 그룹 채팅, 1:1 다이렉트 메시징 및 클라이언트 연결 상태 실시간 동기화
+- **실시간 양방향 통신:** WebSocket 프로토콜 기반 실시간 그룹 채팅, 1:1 다이렉트 메시징 및 클라이언트 세션 상태 실시간 동기화
 - **미디어 스트리밍 파이프라인:** 비대면 멘토링 화면·미디어 스트리밍 인터페이스 구축 및 세션 종료 시 백엔드 리소스 자동 회수 프로세스 설계
-- **예약 스케줄 정합성 보장:** 멘토 가능 시간과 멘티 예약 간 중복 충돌을 방지하는 트랜잭션 락 메커니즘 및 예약 상태 머신 관리
-- **PostgreSQL 조회 최적화:** 매칭 이력 및 채팅 로그 대용량 조회 인덱스 설계, JPA 연관관계 N+1 문제 해소를 위한 Fetch Join 적용
-- **빌드시 어려웠던 점:** 첫 스프링 프로젝트로써 스트리밍밍 아이디값 매칭하는것과 다른 페이지의 Map api를 연동 하는 과정
-- **빌드 시 어려웠던 점:** 3D 냉장고의 문 열리는 X, Y, Z축 방향 계산 및 각종 재료 배열 순서, 그리고 음식을 판별할 수 있는 AI의 버전 캐치 부분
+- **예약 스케줄 정합성 보장:** 멘토 가용 시간과 멘티 예약 간 중복 충돌을 방지하는 트랜잭션 락 메커니즘 및 예약 상태 머신 관리
+- **PostgreSQL 조회 최적화:** 매칭 이력 및 채팅 로그 대용량 조회 인덱스 설계, JPA 연관관계 N+1 문제 해소를 위한 `Fetch Join` 적용
+- **기술적 해결 과제:** 첫 Spring Boot 프로젝트로서 스트리밍 세션 ID 매핑 및 도메인 엔티티 동기화 처리, 다중 페이지 간 지도 API 비동기 로딩 연동 트러블슈팅
+
 </details>
 
 <br>
@@ -134,19 +120,15 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary><b>5. HSK 5급 단어 플래시카드 & 퀴즈 플랫폼 (HSK 5 Web)</b></summary>
 
-> **개인 프로젝트 · 풀스택 개발 (1주 Sprint)**
-> <br>
-> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/hsk5)
-> <br>
-> | [🔗 URL](https://hsk5-hsk5quizapp.vercel.app/)
-> <br>
+> **개인 프로젝트 · 풀스택 개발 (1주 Sprint)**  
+> | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/hsk5)  
+> | [🔗 URL](https://hsk5-hsk5quizapp.vercel.app/)  
 > **Core Stacks:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Flutter Web` `Render`
 - **2,470개 어휘 DB 마이그레이션 파이프라인:** 로컬 SQLite에서 운영 Render PostgreSQL로 데이터 무결성을 유지하며 2,470개 전수 단어 이전 (Merge 기반 멱등성 보장 스크립트 구축)
-- **오답노트 영속성 아키텍처:** 브라우저 휘발성 스토리지 탈피, RDBMS 모델링(`Word` 1:N `WrongAnswerRecord`) 및 외래키 기반 조인 최적화로 복습 기록 영구 보존
-- **Render 콜드 스타트 지연 해결:** 무료 인스턴스의 15분 인액티브 슬립을 극복하기 위해 UptimeRobot 주기적 헬스체크 핑을 구축하여 초기 지연 시간 원천 차단
+- **오답노트 영속성 아키텍처:** 브라우저 휘발성 스토리지를 탈피하고 RDBMS 모델링(`Word` 1:N `WrongAnswerRecord`) 및 외래키 기반 조인 최적화로 복습 기록 영구 보존
+- **Render 콜드 스타트 지연 해결:** 무료 인스턴스의 15분 비활성 슬립 문제를 극복하기 위해 UptimeRobot 주기적 헬스체크 핑을 구성하여 초기 지연 시간 원천 차단
 
 </details>
-
 
 ---
 
@@ -156,8 +138,8 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 > #### 🎓 정부지원 풀스택 웹 개발자 양성 과정 (2026.05 ~ 2026.11)
 >
 > - **Backend & Architecture:** 도메인 기반 REST API 표준 규격 설계, Spring Security + JWT Stateless 인증, WebSocket 실시간 통신 및 트랜잭션 격리 제어
-> - **Python & AI:** Spring Boot ↔ Python 간 MultipartFile 바이너리 전송 및 YOLO/OpenCV 기반 실시간 객체 감지 연계
-> - **Database & Optimization:** 정규화 기반 ERD 설계, JPA N+1 문제 해소(Fetch Join, Batch Size), 대용량 데이터 인덱싱 및 No-Offset 페이징 최적화
+> - **Python & AI:** Spring Boot ↔ Python 간 `MultipartFile` 바이너리 전송 및 YOLO/OpenCV 기반 실시간 객체 감지 연계
+> - **Database & Optimization:** 정규화 기반 ERD 설계, JPA N+1 문제 해소(`Fetch Join`, `Batch Size`), 대용량 데이터 인덱싱 및 No-Offset 페이징 최적화
 > - **Frontend & DevOps:** React 컴포넌트 아키텍처 설계, Axios Interceptor 토큰 제어, AWS EC2 배포 및 Swagger API 문서 자동화
 
 </details>
@@ -176,7 +158,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 - HTML, CSS, PHP, MySQL 기반 웹 개발 및 유지보수
 - Apache 서버 운영, 카페24 호스팅 관리 및 DNS 레코드 설정
-- 아임웹 기반 홈페이지 연동 및 관리
+- 아임웹 기반 웹사이트 연동 및 운영 지원
 
 </details>
 
@@ -188,7 +170,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 - **산업용 제어 SW 개발:** C, Borland C++, C# 기반 고신뢰성 반도체 설비 제어 프로그램 개발 및 현장 트러블슈팅
 - **데이터 정합성 보장:** MySQL, Oracle, Access 기반 LOT/Part 시계열 데이터 모델링 및 MES/SAP 연동 인터페이스 구축
 - **이종 통신 연계:** TCP/IP Socket, RS-232/422/485 Serial 통신 기반 PLC, 레이저, 비전 검사 PC 간 실시간 파라미터 동기화
-- **글로벌 기술 지원:** 필리핀, 말레이시아, 중국 등 해외 고객사 현장 대응 및 원격 기술 지원 (영어 커뮤니케이션)
+- **글로벌 기술 지원:** 필리핀, 말레이시아, 중국 등 해외 고객사 현장 대응 및 기술 지원 (영어 커뮤니케이션)
 
 </details>
 
@@ -198,7 +180,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <summary>🏢 <b>㈜참엔지니어링</b> | SW 개발팀 · 주임 (2013.08 ~ 2015.08 / 2년 1개월)</summary>
 
 - 설비 제어 DB(MySQL) 운영 및 데이터 관리
-- 레이저 컷팅 설비 셋업, I/O 파라미터 초기화 제어 및 장애 복구 대응
+- 레이저 커팅 설비 셋업, I/O 파라미터 초기화 제어 및 장애 복구 대응
 
 </details>
 
@@ -207,7 +189,7 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 <details>
 <summary>🏢 <b>㈜JNDK</b> | SI사업부 · 주임 (2010.12 ~ 2013.05 / 2년 6개월)</summary>
 
-- C# (.NET 4.0) 기반 지멘스 PLC 통신 인터페이스 및 우편집중국 물류 제어 HMI 개발
+- C# (.NET 4.0) 기반 지멘스 PLC 통신 인터페이스 및 우편집중국 물류 제어 HMI 개발[cite: 1]
 - Crystal Report 기반 통계/리포트 시스템 개발 및 MMI 그래픽 화면 제작
 
 </details>
@@ -221,6 +203,6 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 > • **HSK 4급** (219점)  
 > • **OPIc IH** (Intermediate High)  
-> • **정보처리기사**
+> • **정보처리기사**[cite: 1]
 
 </details>
