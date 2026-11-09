@@ -120,12 +120,13 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 > | [🔗 GitHub Repository](https://github.com/lj8888151214-commits/easys)
 > <br>
 > **Core Stacks:** `Java 17` `Spring Boot` `WebSocket` `PostgreSQL` `Spring Data JPA` `React`
+> 
 - **실시간 양방향 통신:** WebSocket 프로토콜 기반 실시간 그룹 채팅, 1:1 다이렉트 메시징 및 클라이언트 연결 상태 실시간 동기화
 - **미디어 스트리밍 파이프라인:** 비대면 멘토링 화면·미디어 스트리밍 인터페이스 구축 및 세션 종료 시 백엔드 리소스 자동 회수 프로세스 설계
 - **예약 스케줄 정합성 보장:** 멘토 가능 시간과 멘티 예약 간 중복 충돌을 방지하는 트랜잭션 락 메커니즘 및 예약 상태 머신 관리
 - **PostgreSQL 조회 최적화:** 매칭 이력 및 채팅 로그 대용량 조회 인덱스 설계, JPA 연관관계 N+1 문제 해소를 위한 Fetch Join 적용
 - **빌드시 어려웠던 점:** 첫 스프링 프로젝트로써 스트리밍밍 아이디값 매칭하는것과 다른 페이지의 Map api를 연동 하는 과정
-
+- **빌드 시 어려웠던 점:** 3D 냉장고의 문 열리는 X, Y, Z축 방향 계산 및 각종 재료 배열 순서, 그리고 음식을 판별할 수 있는 AI의 버전 캐치 부분
 </details>
 
 <br>
@@ -146,7 +147,6 @@ Java/Spring Boot 기반의 견고한 백엔드와 직관적인 React 프론트�
 
 </details>
 
-</details>
 
 ---
 
